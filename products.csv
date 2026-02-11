@@ -1,0 +1,51 @@
+barcode,product_name,brand,category,mrp,weight,gst,approved
+8901030701011,Maggi Masala,Nestle,Instant Noodles,12,70g,12,yes
+8901030702018,Maggi 2-Minute Noodles,Nestle,Instant Noodles,28,140g,12,yes
+8901491100903,Kurkure Masala Munch,PepsiCo,Snacks,10,45g,12,yes
+8901491100880,Kurkure Green Chatka,PepsiCo,Snacks,20,90g,12,yes
+8901491101016,Lays Classic Salted,PepsiCo,Snacks,20,52g,12,yes
+8901491101023,Lays Magic Masala,PepsiCo,Snacks,20,52g,12,yes
+8901491100972,Lays American Cream & Onion,PepsiCo,Snacks,20,52g,12,yes
+8901030710020,KitKat Chocolate,Nestle,Chocolate,20,18g,18,yes
+8901233101313,Parle-G Gold,Parle,Biscuit,10,80g,12,yes
+8901233100897,Parle-G Family Pack,Parle,Biscuit,40,350g,12,yes
+8901719000011,Britannia Good Day,Britannia,Biscuit,30,200g,12,yes
+8901719000028,Marie Gold,Britannia,Biscuit,30,200g,12,yes
+8901030703038,Nescafe Classic,Nestle,Coffee,120,50g,18,yes
+8904109490831,Bournvita,Cadbury,Health Supplement,230,500g,18,yes
+8901030739457,Munch Chocolate,Nestle,Chocolate,10,11g,18,yes
+8908002031000,Chetna Rice,Local,Food Grain,65,1kg,0,yes
+8902821122231,Tata Salt,Tata,Spices & Salt,28,1kg,0,yes
+8901396354312,Tata Tea Gold,Tata,Tea,125,250g,5,yes
+8901233000395,Parle Monaco,Parle,Biscuit,10,75g,12,yes
+8906004560232,Sunfeast Cream Biscuits,ITC,Biscuit,20,100g,12,yes
+8906004560454,Bingo Tedhe Medhe,ITC,Snacks,10,45g,12,yes
+8906014670531,Dark Fantasy Choco Fills,ITC,Biscuits,30,75g,12,yes
+8901030705070,Nestle Milkmaid,Nestle,Dairy,135,400g,12,yes
+8901491100989,Lays Honey Chilli,PepsiCo,Snacks,20,52g,12,yes
+8901030710044,KitKat 4-Finger,Nestle,Chocolate,30,35g,18,yes
+8901030701293,Milo Chocolate,Cadbury,Chocolate Drink,20,18g,18,yes
+8906000967984,Aashirvaad Atta,ITC,Food Grain,210,5kg,0,yes
+8901030710303,Nescafe Sunrise,Nestle,Coffee,60,25g,18,yes
+8901023011017,Horlicks,GlaxoSmithKline,Health Drink,240,500g,18,yes
+8901719100467,Britannia Milk Bikis,Britannia,Biscuit,30,200g,12,yes
+8901030703014,Everyday Dairy Whitener,Nestle,Dairy,40,100g,12,yes
+8901491100873,Kurkure Chilli Chatka,PepsiCo,Snacks,10,45g,12,yes
+8901233100986,Parle Kreams,Parle,Biscuit,10,75g,12,yes
+8906004560416,Bingo Mad Angles,ITC,Snacks,20,65g,12,yes
+8901725101763,Britannia Bourbon,Britannia,Biscuit,30,150g,12,yes
+8901725018047,Little Hearts,Britannia,Biscuit,10,75g,12,yes
+8901491101017,Lays Spanish Tomato,PepsiCo,Snacks,20,52g,12,yes
+8901233000050,Parle Mango Bite,Parle,Toffee,1,2g,18,yes
+8904110135904,Cadbury Dairy Milk Silk,Cadbury,Chocolate,70,60g,18,yes
+8901719000042,Britannia Tiger Glucose,Britannia,Biscuit,5,40g,12,yes
+8906026731103,Tropicana Orange,PepsiCo,Juice,30,200ml,12,yes
+8901030703045,Nescafe Sachet,Nestle,Coffee,3,1.5g,18,yes
+8901030702015,Milo Powder,Cadbury,Health Drink,115,200g,18,yes
+8904110112346,Dairy Milk Home Treats,Cadbury,Chocolate,80,126g,18,yes
+8901030705077,Everyday Creamer,Nestle,Dairy,20,50g,12,yes
+8904000120045,Coca Cola,Coca Cola,Soft Drink,40,750ml,18,yes
+8904000120013,Thums Up,Coca Cola,Soft Drink,40,750ml,18,yes
+8904000120020,Sprite,Coca Cola,Soft Drink,40,750ml,18,yes
+8908001150031,Amul Butter,Amul,Dairy,52,100g,12,yes
+8908001150185,Amul Cheese Slices,Amul,Dairy,125,200g,12,yes
